@@ -8,5 +8,5 @@ https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&d
 ||val accuracy|
 |------|---|
 |baseline|91.46|
-|테스트2|테스트3|
-|테스트2|테스트3|
+|+ RandomAdjustSharpness|92.95|
+|-|-|
