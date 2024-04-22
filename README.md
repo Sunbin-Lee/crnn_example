@@ -4,6 +4,14 @@ CRNN 구현
 ## Data 
 https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=172
 
+## Directory
+```bash
+├── data
+│   ├── tokenizer.json
+│   ├── train.pickle
+│   └── val.pickle
+└── crnn.ipynb
+
 ## Result
 ||val accuracy|
 |------|---|
